@@ -1,27 +1,27 @@
 {
-    "name": "@wiwo/karma-sprockets",
-    "version": "0.3.0-SNAPSHOT",
-    "description": "A Karma plugin that helps importing js files from sprockets bundles.",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/widgetworks/karma-sprockets.git"
-    },
-    "keywords": [
-        "karma-plugin",
-        "karma-preprocessor",
-        "sprockets",
-        "rails"
-    ],
-    "author": {
-        "name": "Sebastian Zaha",
-        "email": "sebastian.zaha@gmail.com"
-    },
-    "licenses": "MIT",
-    "dependencies": {
-        "@wiwo/sprockets-chain": "^0.0.15"
-    }
+  "name": "@wiwo/karma-sprockets",
+  "version": "0.3.0",
+  "description": "A Karma plugin that helps importing js files from sprockets bundles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/widgetworks/karma-sprockets.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "sprockets",
+    "rails"
+  ],
+  "author": {
+    "name": "Sebastian Zaha",
+    "email": "sebastian.zaha@gmail.com"
+  },
+  "licenses": "MIT",
+  "dependencies": {
+    "@wiwo/sprockets-chain": "^0.0.15"
+  }
 }
