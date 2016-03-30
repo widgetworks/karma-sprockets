@@ -1,5 +1,5 @@
 // chain, chain, chaaaain ...
-var Chain = require('sprockets-chain');
+var Chain = require('@wiwo/sprockets-chain');
 
 var isAbsolutePath = function(path) {
     if (!path.length) {
