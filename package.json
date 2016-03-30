@@ -1,6 +1,6 @@
 {
-    "name": "karma-sprockets",
-    "version": "0.3.1",
+    "name": "@wiwo/karma-sprockets",
+    "version": "0.3.0-SNAPSHOT",
     "description": "A Karma plugin that helps importing js files from sprockets bundles.",
     "main": "index.js",
     "scripts": {
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/SebastianZaha/karma-sprockets.git"
+        "url": "https://github.com/widgetworks/karma-sprockets.git"
     },
     "keywords": [
         "karma-plugin",
@@ -21,5 +21,7 @@
         "email": "sebastian.zaha@gmail.com"
     },
     "licenses": "MIT",
-    "dependencies": "sprockets-chain"
+    "dependencies": {
+        "@wiwo/sprockets-chain": "^0.0.15"
+    }
 }
