@@ -1,6 +1,6 @@
 {
   "name": "@wiwo/karma-sprockets",
-  "version": "0.3.0-wiwo.1",
+  "version": "0.3.0-wiwo.2",
   "description": "A Karma plugin that helps importing js files from sprockets bundles.",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "licenses": "MIT",
   "dependencies": {
-    "@wiwo/sprockets-chain": "^0.0.15"
+    "@wiwo/sprockets-chain": "~0.0.16"
   }
 }
